@@ -235,7 +235,7 @@ export const endings: { [key: string]: Ending } = {
             "Well, to be fair, things could be worse.",
             "I mean, you could be <yellow>me>.",
         ],
-        endingName: "<violet><i>Silly> Ending>",
+        endingName: "<slate><i>Silly> Ending>",
         studentName: "Josh",
         animation: {
             delay: 1000,
