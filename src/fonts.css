@@ -1,0 +1,49 @@
+@font-face {
+    font-family: 'Droid Serif';
+    font-style: normal;
+    font-weight: 400;
+    src: url(/fonts/droidserif-regular.woff2) format('woff2');
+}
+
+@font-face {
+    font-family: 'Droid Serif';
+    font-style: normal;
+    font-weight: 600;
+    src: url(/fonts/droidserif-bold.woff2) format('woff2');
+}
+
+@font-face {
+    font-family: 'Droid Serif';
+    font-style: italic;
+    font-weight: 400;
+    src: url(/fonts/droidserif-italic.woff2) format('woff2');
+}
+
+@font-face {
+    font-family: 'Droid Serif';
+    font-style: italic;
+    font-weight: 700;
+    src: url(/fonts/droidserif-bolditalic.woff2) format('woff2');
+}
+
+@font-face {
+    font-family: 'Courier';
+    font-style: normal;
+    font-weight: 400;
+    src: url(/fonts/courierprime-regular.woff2) format('woff2');
+}
+
+@font-face {
+    font-family: 'Courier';
+    font-style: bold;
+    font-weight: 700;
+    src: url(/fonts/courierprime-bold.woff2) format('woff2');
+}
+
+.font-droid {
+    font-family: 'Droid Serif', serif;
+}
+
+.font-courier {
+    font-family: 'Courier', monospace;
+}
